@@ -1,0 +1,11 @@
+metric,value,unit,source
+"Energy Poverty Threshold",10,%,Figure 9.1
+"Energy Burden - Low Income",15,%,Figure 9.1
+"Energy Burden - Medium Income",8,%,Figure 9.1
+"Energy Burden - High Income",3,%,Figure 9.1
+"Protocol Offset",60,%,Chapter 9.1
+"Demographic Drain Rate",5,%,Chapter 9.5
+"AEP Node Efficiency",85,%,Chapter 9.3
+"Unrest Factor",0.5,factor,Chapter 9.6
+"Sovereign Citizen Metric - 2025",0.2,index,Table 9.2
+"Sovereign Citizen Metric - 2030",0.8,index,Table 9.2
