@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 
-This repository is the **official computational companion** to Chapter 9 of Vincenzo Grimaldi’s *The Renewables Migration* (March 21, 2026). It mathematically verifies the pivotal social transformation at 03:55 — the exact moment the €1.45 trillion Energiewende receipt is reconciled at the human level. The proof engine turns energy poverty, demographic drain, and the “breaking point” of German households into sovereign citizen power through the Model Context Protocol (MCP).
+This repository is the **official computational companion** to Chapter 9 of Vincenzo Grimaldi’s *The Renewables Migration*.
 
 The 03:17 narrative thread continues here. Every preceding chapter’s hardware and protocol foundation — the €700 billion U-Turn, the €580 billion crowdfunded empire, the €320 billion copper arteries, solar subsidies, Dunkelflaute resilience, hydrogen backup, and de-industrialization recovery — now culminates in homes and citizens becoming intelligent grid nodes. This production-ready codebase delivers verifiable Protocol-Enabled Utility Equation simulations, energy-burden offset curves, the Autonomous Energy Protocol (AEP) framework, and the 2030 Sovereign Citizen verdict for developers and system integrators to embed household-level MCP intelligence into live energy architectures.
 
