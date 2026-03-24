@@ -134,8 +134,6 @@ Renewables_Migration_Chapter9_Proof_Engine/
 
 The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and the full AEP framework at the household level. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic household data with real smart-meter telemetry.
 
-This is the **executable bridge** that proves the book’s blueprint reaches every German citizen.
-
 ---
 
 **Part of The Renewables Migration Technical Ecosystem**  
