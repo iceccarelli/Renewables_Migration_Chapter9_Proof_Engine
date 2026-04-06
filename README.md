@@ -7,8 +7,6 @@
 
 This repository is the **official computational companion** to Chapter 9 of Vincenzo Grimaldi’s *The Renewables Migration*.
 
-The 03:17 narrative thread continues here. Every preceding chapter’s hardware and protocol foundation — the €700 billion U-Turn, the €580 billion crowdfunded empire, the €320 billion copper arteries, solar subsidies, Dunkelflaute resilience, hydrogen backup, and de-industrialization recovery — now culminates in homes and citizens becoming intelligent grid nodes. This production-ready codebase delivers verifiable Protocol-Enabled Utility Equation simulations, energy-burden offset curves, the Autonomous Energy Protocol (AEP) framework, and the 2030 Sovereign Citizen verdict for developers and system integrators to embed household-level MCP intelligence into live energy architectures.
-
 ---
 
 ## Quick Start — Verify Sovereign Citizen Power in < 60 Seconds
@@ -129,12 +127,3 @@ Renewables_Migration_Chapter9_Proof_Engine/
 | **Book Data Export**             | 9.4             | One-click CSV matching Appendix A |
 
 ---
-
-## Technical Integration Philosophy
-
-The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and the full AEP framework at the household level. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic household data with real smart-meter telemetry.
-
----
-
-**Part of The Renewables Migration Technical Ecosystem**  
-From the €1.45 trillion receipt to sovereign citizen power — the 03:17 thread continues here. Verified.
